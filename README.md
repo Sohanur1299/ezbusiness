@@ -6,7 +6,7 @@ Currently being developed for Blendz.
 Tech Stack
 - Initially MERN, PERN(Later)
 - Frontend: React.js, TailwindCSS, ShadCN UI
-- Backend: Node.js, Express.js, JWT
+- Backend: Node.js, Express.js, JWT, Next.js(important later findout)
 - Database: MongoDB Atlas
 - AI (Planned): Python (Flask/FastAPI), scikit-learn, Prophet
 - Deployment: Vercel (frontend), Render (backend), MongoDB Atlas (database)
