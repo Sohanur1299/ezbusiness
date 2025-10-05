@@ -11,7 +11,16 @@ Tech Stack
 - Deployment: Vercel (frontend), Render (backend), MongoDB Atlas (database)
 
 # Project Roadmap
-Soon.
+- [ ] Authentication (Owner & Staff) – 18th Oct 2025
+- [ ] Sales & Expenses Management – 1st Nov 2025
+- [ ] Inventory Tracking – 🔜 15th Nov 2025
+- [ ] Per Cup Tracking – 🔜 22nd Nov 2025
+- [ ] Reports & Analytics – 🔜 29th Nov 2025
+- [ ] Notifications – 🔜 6th Dec 2025
+- [ ] AI Forecasting – 🔜 13th Dec 2025
+- [ ] Chatbot Assistant – 🔜 20th Dec 2025
+- [ ] Anomaly Detection – 🔜 27th Dec 2025
+- [ ] Final Deployment – 🔜 Only Allah Knows
 
 Setup & Installation
 
